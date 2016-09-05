@@ -1,0 +1,1 @@
+/home/nohous/.vim/ftplugin/vhdl.vim
